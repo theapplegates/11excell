@@ -7,7 +7,7 @@ youtube: true
 ---
 <div id="search" class="search"></div>
 
-<script src="/_pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: false });"></script>
+<script src="/_pagefind/pagefind-ui.js" onload="new PagefindUI({ element: '#search', showImages: true });"></script>
 <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
 
 <style>
